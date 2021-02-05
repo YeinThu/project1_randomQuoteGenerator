@@ -1,5 +1,5 @@
 # Project 1 - Random Quote Generator
----
+
 ## Project Details
 * A website that generates a random quote
 * When a user clicks on the *Show another quote* button,
